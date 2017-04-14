@@ -1,0 +1,4 @@
+This is a Vehicle Front Detection with Haarcascades with Python Programming Language, with OpenCV 2.4
+
+It will detect the vehicles that pass in front on the road, here i use Haarcascades. This could be useful for autonomous cars, I love that 
+theme.
